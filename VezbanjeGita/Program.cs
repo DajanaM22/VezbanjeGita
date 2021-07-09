@@ -10,6 +10,7 @@ namespace VezbanjeGita
             Console.WriteLine("Some additional text");
             Console.WriteLine("Hello World again!");
             Console.WriteLine("Some changes in Hello World again!");
+            Console.WriteLine("Some changes from locaaal!");
         }
     }
 }
