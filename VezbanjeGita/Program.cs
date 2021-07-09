@@ -9,6 +9,7 @@ namespace VezbanjeGita
             Console.WriteLine("Hello World!");
             Console.WriteLine("Some additional text");
             Console.WriteLine("Hello World again!");
+            Console.WriteLine("Hello World from second branch!!");
         }
     }
 }
