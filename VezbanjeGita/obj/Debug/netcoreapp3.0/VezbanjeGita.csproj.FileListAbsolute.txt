@@ -1,0 +1,11 @@
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\bin\Debug\netcoreapp3.0\VezbanjeGita.exe
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\bin\Debug\netcoreapp3.0\VezbanjeGita.deps.json
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\bin\Debug\netcoreapp3.0\VezbanjeGita.runtimeconfig.json
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\bin\Debug\netcoreapp3.0\VezbanjeGita.runtimeconfig.dev.json
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\bin\Debug\netcoreapp3.0\VezbanjeGita.dll
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\bin\Debug\netcoreapp3.0\VezbanjeGita.pdb
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\obj\Debug\netcoreapp3.0\VezbanjeGita.csprojAssemblyReference.cache
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\obj\Debug\netcoreapp3.0\VezbanjeGita.AssemblyInfoInputs.cache
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\obj\Debug\netcoreapp3.0\VezbanjeGita.AssemblyInfo.cs
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\obj\Debug\netcoreapp3.0\VezbanjeGita.dll
+C:\Users\Dajana\source\repos\VezbanjeGita\VezbanjeGita\obj\Debug\netcoreapp3.0\VezbanjeGita.pdb
